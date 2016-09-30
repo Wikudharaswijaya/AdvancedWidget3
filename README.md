@@ -2,8 +2,8 @@
 
 Judul Project : AdnvancedWidget3
 
-Screenshot Project : https://github.com/wikudharaswijaya/AdvancedWidget3/blob/master/bending1.jpg 
-https://github.com/wikudharaswijaya/AdvancedWidget3/blob/master/bending2.jpg
+Screenshot Project : https://github.com/wikudharaswijaya/AdvancedWidget3/blob/master/binding1.jpg 
+https://github.com/wikudharaswijaya/AdvancedWidget3/blob/master/binding2.jpg
 
 Credits :
 Nama : Wikudhara Shofrina Wijaya 
